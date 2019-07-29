@@ -25,7 +25,7 @@ class SampleBookAppCard extends StatelessWidget {
               _imageName,
               fit: BoxFit.cover,
               color: Color.fromRGBO(255, 255, 255, 0.5),
-              colorBlendMode: BlendMode.colorBurn,
+              colorBlendMode: BlendMode.colorBurn,            
             ),
           ),
         ),

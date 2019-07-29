@@ -48,6 +48,16 @@ flutter:
     - images/Picnic.jpg
     - images/Travel.jpg
     - images/Wedding.jpg
+    - images/BD_Post (1).jpg
+    - images/BD_Post (2).jpg
+    - images/BD_Post (3).jpg
+    - images/BD_Post (4).png
+    - images/BD_Post (5).png
+    - images/BD_Post (6).jpg
+    - images/BD_Post (7).jpg
+    - images/BD_Post (8).jpg
+    - images/BD_Post (9).png
+    - images/BD_Post (10).jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
